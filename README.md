@@ -160,7 +160,7 @@ MIT License
 
 Deepshikha Burman  
 Masters in Physics (specialization in CMP)  
-Interested in contributing to Quantum computing research
+
 
 ---
 
